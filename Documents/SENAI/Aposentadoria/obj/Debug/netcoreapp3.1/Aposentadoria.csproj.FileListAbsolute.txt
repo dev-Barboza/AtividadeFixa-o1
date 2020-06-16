@@ -1,0 +1,13 @@
+C:\Users\maheu\Documents\SENAI\Aposentadoria\bin\Debug\netcoreapp3.1\Aposentadoria.exe
+C:\Users\maheu\Documents\SENAI\Aposentadoria\bin\Debug\netcoreapp3.1\Aposentadoria.deps.json
+C:\Users\maheu\Documents\SENAI\Aposentadoria\bin\Debug\netcoreapp3.1\Aposentadoria.runtimeconfig.json
+C:\Users\maheu\Documents\SENAI\Aposentadoria\bin\Debug\netcoreapp3.1\Aposentadoria.runtimeconfig.dev.json
+C:\Users\maheu\Documents\SENAI\Aposentadoria\bin\Debug\netcoreapp3.1\Aposentadoria.dll
+C:\Users\maheu\Documents\SENAI\Aposentadoria\bin\Debug\netcoreapp3.1\Aposentadoria.pdb
+C:\Users\maheu\Documents\SENAI\Aposentadoria\obj\Debug\netcoreapp3.1\Aposentadoria.csprojAssemblyReference.cache
+C:\Users\maheu\Documents\SENAI\Aposentadoria\obj\Debug\netcoreapp3.1\Aposentadoria.csproj.CoreCompileInputs.cache
+C:\Users\maheu\Documents\SENAI\Aposentadoria\obj\Debug\netcoreapp3.1\Aposentadoria.AssemblyInfoInputs.cache
+C:\Users\maheu\Documents\SENAI\Aposentadoria\obj\Debug\netcoreapp3.1\Aposentadoria.AssemblyInfo.cs
+C:\Users\maheu\Documents\SENAI\Aposentadoria\obj\Debug\netcoreapp3.1\Aposentadoria.dll
+C:\Users\maheu\Documents\SENAI\Aposentadoria\obj\Debug\netcoreapp3.1\Aposentadoria.pdb
+C:\Users\maheu\Documents\SENAI\Aposentadoria\obj\Debug\netcoreapp3.1\Aposentadoria.genruntimeconfig.cache
