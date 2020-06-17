@@ -1,0 +1,13 @@
+C:\Users\maheu\Documents\SENAI\Cinemas\bin\Debug\netcoreapp3.1\Cinemas.exe
+C:\Users\maheu\Documents\SENAI\Cinemas\bin\Debug\netcoreapp3.1\Cinemas.deps.json
+C:\Users\maheu\Documents\SENAI\Cinemas\bin\Debug\netcoreapp3.1\Cinemas.runtimeconfig.json
+C:\Users\maheu\Documents\SENAI\Cinemas\bin\Debug\netcoreapp3.1\Cinemas.runtimeconfig.dev.json
+C:\Users\maheu\Documents\SENAI\Cinemas\bin\Debug\netcoreapp3.1\Cinemas.dll
+C:\Users\maheu\Documents\SENAI\Cinemas\bin\Debug\netcoreapp3.1\Cinemas.pdb
+C:\Users\maheu\Documents\SENAI\Cinemas\obj\Debug\netcoreapp3.1\Cinemas.csprojAssemblyReference.cache
+C:\Users\maheu\Documents\SENAI\Cinemas\obj\Debug\netcoreapp3.1\Cinemas.csproj.CoreCompileInputs.cache
+C:\Users\maheu\Documents\SENAI\Cinemas\obj\Debug\netcoreapp3.1\Cinemas.AssemblyInfoInputs.cache
+C:\Users\maheu\Documents\SENAI\Cinemas\obj\Debug\netcoreapp3.1\Cinemas.AssemblyInfo.cs
+C:\Users\maheu\Documents\SENAI\Cinemas\obj\Debug\netcoreapp3.1\Cinemas.dll
+C:\Users\maheu\Documents\SENAI\Cinemas\obj\Debug\netcoreapp3.1\Cinemas.pdb
+C:\Users\maheu\Documents\SENAI\Cinemas\obj\Debug\netcoreapp3.1\Cinemas.genruntimeconfig.cache
